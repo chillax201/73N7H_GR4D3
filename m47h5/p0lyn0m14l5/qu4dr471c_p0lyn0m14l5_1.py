@@ -1,3 +1,6 @@
+#this program finds the zeroes of a quadratic polynomial
+#please use spacing between terms 
+
 from cmath import sqrt
 
 
